@@ -1,4 +1,4 @@
-# Simon Says
+# Simon Says Game
 
 ## Overview
 Simon Says is a memory game where players must repeat a sequence of colors in the correct order. The sequence starts with one color and adds an additional color each round. The game continues until the player makes a mistake.
